@@ -2,7 +2,7 @@
 
 ## 介绍
 
-idrl beamer theme 的 ppt 主题实现。
+[idrl beamer_template](https://git.idrl.site/idrl/beamer_template) 的 ppt 主题实现.
 
 - 标题页
 - 单栏页
@@ -11,9 +11,12 @@ idrl beamer theme 的 ppt 主题实现。
 ![pp1](./ppt1.png)
 ![pp2](./ppt2.png)
 ![pp3](./ppt3.png)
+
 ## 用法
 
 ![guide](./guide.png)
+
+- 下载 `idrl_ppt_theme.pptx` 并打开，按如下步骤操作
 
 1. 视图-幻灯片母版
 2. 点击左侧第 1 个母版
