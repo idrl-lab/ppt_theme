@@ -2,7 +2,7 @@
 
 ## 介绍
 
-[idrl beamer_template](https://git.idrl.site/idrl/beamer_template) 的 ppt 主题实现.
+考虑到 beamer 在多媒体上的短板，复刻实现了 [idrl beamer_template](https://git.idrl.site/idrl/beamer_template) 的 ppt 主题，方便大家使用. 
 
 - 标题页
 - 单栏页
