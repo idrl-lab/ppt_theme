@@ -2,7 +2,7 @@
 
 ## 介绍
 
-考虑到 beamer 在多媒体上的短板，复刻实现了 [idrl beamer_template](https://git.idrl.site/idrl/beamer_template) 的 ppt 主题，方便大家使用. 
+考虑到 beamer 在多媒体上的短板，复刻实现了 [idrl beamer_template](https://git.idrl.site/idrl/beamer_template) 的 ppt 主题，方便大家使用.
 
 - 标题页
 - 单栏页
@@ -23,4 +23,4 @@
 3. 修改作者
 4. 修改日期
 5. 修改标题
-6. 由于 ppt 不支持自动计算总页数，请做完 ppt 之后手动修改 `总页数` 
+6. 由于 ppt 不支持自动计算总页数，请做完 ppt 之后手动修改模板中右下角的 `总页数`
